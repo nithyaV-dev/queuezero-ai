@@ -94,26 +94,37 @@ queuezero-ai/
 
 ## ▶️ How to Run
 
-IN POWERSHELL TERMINAL:-
-RUN BELOW THESE
-pip install -r requirements.txt
-streamlit run app.py
+## ▶️ How to Run
+
+- Open PowerShell / Terminal  
+- Install dependencies:
+  - `pip install -r requirements.txt`
+- Run the app:
+  - `streamlit run app.py`
+- Open browser:
+  - `http://localhost:8501`
 
 ---
-🎯 Innovation
-This is not a normal app.
-👉 It behaves like an AI agent
-👉 Makes decisions, not just UI actions
-👉 Shows reasoning + self-correction
+## 🎯 Innovation
+
+- This is not a normal app — it behaves like an AI agent  
+- Makes autonomous decisions, not just UI actions  
+- Performs real-time slot analysis  
+- Compares multiple options before selecting  
+- Shows transparent AI reasoning  
+- Includes self-correction (rejects bad slots → selects optimal one)  
+- Simulates real-world hospital queue intelligence  
 ---
-🚀 Future Scope
-->Real hospital integration
--->Mobile app
--->Predictive rush analysis
--->Voice assistant
+## 🚀 Future Scope
+
+- Real hospital system integration  
+- Mobile application version  
+- Predictive rush analysis using historical data  
+- Voice assistant for patient interaction  
+- Multi-hospital scaling with live dashboards  
 ---
 ## 👤Author
 **Nithya Vasireddi**  
-AI Enthusiast | Developer  
-Built for **AI Agentathon 🚀**
+-- AI Enthusiast | Developer  
+**Built for **AI Agentathon 🚀**
 ---
