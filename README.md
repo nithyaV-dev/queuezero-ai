@@ -79,18 +79,16 @@ Simulates real AI thinking:
 
 ---
 
-## 📂 Project Structure
-queuezero-ai/
-│
-├── app.py # Streamlit UI (Frontend)
-├── api.py # API layer (handles requests)
-├── agent.py # AI decision engine (logic + reasoning)
-├── gsheet.py # Google Sheets integration
-│
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-└── .gitignore # Ignored files
+## 📁 Project Structure
 
+• app.py — Streamlit UI (Frontend)  
+• api.py — API layer (handles requests)  
+• agent.py — AI decision engine (logic + reasoning)  
+• gsheet.py — Google Sheets integration  
+
+• requirements.txt — Python dependencies  
+• README.md — Project documentation  
+• .gitignore — Ignored files  
 
 ---
 
