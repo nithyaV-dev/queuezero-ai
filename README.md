@@ -81,18 +81,17 @@ Simulates real AI thinking:
 
 ## 📂 Project Structure
 queuezero-ai/
-│── app.py
-│── api.py
-│── agent.py
-│── gsheet.py
-│── credentials.json
-│── requirements.txt
-│── README.md
+│
+├── app.py # Streamlit UI (Frontend)
+├── api.py # Backend logic & endpoints
+├── agent.py # AI decision-making logic
+├── gsheet.py # Google Sheets integration
+├── requirements.txt # Dependencies
+├── README.md # Project documentation
+└── .gitignore # Ignored files
 
 
 ---
-
-## ▶️ How to Run
 
 ## ▶️ How to Run
 
@@ -123,8 +122,10 @@ queuezero-ai/
 - Voice assistant for patient interaction  
 - Multi-hospital scaling with live dashboards  
 ---
-## 👤Author
+## 👤 Author
+
 **Nithya Vasireddi**  
--- AI Enthusiast | Developer  
-**Built for **AI Agentathon 🚀**
+AI Enthusiast • Developer  
+🔗 GitHub: https://github.com/nithyav-dev  
+🚀 Built for AI Agent Hackathon
 ---
