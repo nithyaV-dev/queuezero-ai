@@ -123,8 +123,10 @@ Simulates real AI thinking:
 ---
 ## 👤 Author
 
-**Nithya Vasireddi**  
-AI Enthusiast • Developer  
-🔗 GitHub: https://github.com/nithyav-dev  
-🚀 Built for AI Agent Hackathon
+- Nithya Vasireddi  
+- AI Enthusiast | Developer  
+
+-GitHub: https://github.com/nithyav-dev  
+
+- Built for AI Agent Hackathon
 ---
