@@ -121,12 +121,15 @@ Simulates real AI thinking:
 - Voice assistant for patient interaction  
 - Multi-hospital scaling with live dashboards  
 ---
-## 👤 Author
+## ## 👤 Team
 
 - Nithya Vasireddi  
-- AI Enthusiast | Developer  
+- R. Abdul Bashith  
+- P. Devasena Reddy  
+- K.Bhargavi  
+AI Enthusiasts | Developers  
 
--GitHub: https://github.com/nithyav-dev  
+GitHub: https://github.com/nithyav-dev  
 
-- Built for AI Agent Hackathon
+Built for AI Agent Hackathon
 ---
