@@ -83,10 +83,11 @@ Simulates real AI thinking:
 queuezero-ai/
 │
 ├── app.py # Streamlit UI (Frontend)
-├── api.py # Backend logic & endpoints
-├── agent.py # AI decision-making logic
+├── api.py # API layer (handles requests)
+├── agent.py # AI decision engine (logic + reasoning)
 ├── gsheet.py # Google Sheets integration
-├── requirements.txt # Dependencies
+│
+├── requirements.txt # Python dependencies
 ├── README.md # Project documentation
 └── .gitignore # Ignored files
 
