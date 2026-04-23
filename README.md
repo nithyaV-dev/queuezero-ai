@@ -42,9 +42,9 @@ QueueZero AI is an **Autonomous AI Agent** that:
 
 ### 🧠 AI Reasoning
 Example:
-Slot 1 rejected → high wait ⚠️
-Slot 2 rejected → no tokens ❌
-Slot 3 selected → optimal ✅
+- Slot 1 rejected → high wait ⚠️
+- Slot 2 rejected → no tokens ❌
+- Slot 3 selected → optimal ✅
 
 
 ---
