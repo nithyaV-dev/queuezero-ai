@@ -1,5 +1,8 @@
 # 🚀 QueueZero AI – Smart Healthcare Queue Agent
 
+## 🎥 Project Demo
+ - https://youtu.be/3MsUx7zJMoE?si=rbkAwE8h6zobppJF
+
 ## 🧠 Problem
 Hospital queues are inefficient. Patients don’t know:
 - Which department is less crowded
@@ -103,6 +106,13 @@ Simulates real AI thinking:
   - `http://localhost:8501`
 
 ---
+## 🔗 Live Demo
+🎥 Demo Video: https://youtu.be/3MsUx7zJMoE?si=rbkAwE8h6zobppJF  
+
+🚀 App Deployment: Not Deployed
+
+> Note: This application uses secure Google Sheets API credentials which cannot be shared publicly. The complete functionality and agent workflow are demonstrated in the demo video.
+...
 ## 🎯 Innovation
 
 - This is not a normal app — it behaves like an AI agent  
